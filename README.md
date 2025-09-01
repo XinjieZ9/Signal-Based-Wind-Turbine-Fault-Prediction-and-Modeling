@@ -1,6 +1,6 @@
 # Signal-Based Wind Turbine Fault Prediction and Modeling
 
-This project focuses on **wind turbine fault prediction and performance modeling** using SCADA (Supervisory Control and Data Acquisition) data.
+This project focuses on **wind turbine fault prediction and performance modeling** using SCADA data.
 
 
 ## Data Description
