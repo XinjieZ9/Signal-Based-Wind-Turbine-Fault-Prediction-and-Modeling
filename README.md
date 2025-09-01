@@ -4,8 +4,8 @@ This project focuses on **wind turbine fault prediction and performance modeling
 
 
 ## Data Description
-- **SCADA Signals**: Generator RPM, bearing and winding temperatures, hydraulic and gearbox oil temperatures, rotor speed, nacelle and ambient conditions, wind speed and direction, pitch angle, power output, reactive power, transformer temperatures, grid voltage/current/frequency, etc.:contentReference[oaicite:2]{index=2}  
-- **Turbine Datasheet**: Provides rated power, rotor diameter, hub height, cut-in/cut-out speeds, and other technical specifications of the turbines:contentReference[oaicite:3]{index=3}.  
+- **SCADA Signals**: Generator RPM, bearing and winding temperatures, hydraulic and gearbox oil temperatures, rotor speed, nacelle and ambient conditions, wind speed and direction, pitch angle, power output, reactive power, transformer temperatures, grid voltage/current/frequency, etc.  
+- **Turbine Datasheet**: Provides rated power, rotor diameter, hub height, cut-in/cut-out speeds, and other technical specifications of the turbines.  
 - **Failure Data**: Historical failure logs linked with SCADA signals for supervised learning.  
 - **Training/Testing Sets**: Separate CSV files for signals, met mast data, and failure records.  
 
